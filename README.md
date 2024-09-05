@@ -71,10 +71,48 @@ int main()
 
 ## CODE 2 
 ```cpp
+// NAME -RIDDHI LOKHANDE
+// PRN - 23070123107
+// EXPERIMENT -13(B) 
 
+#include<iostream>
+using namespace std;
+
+class fetch
+{
+    int num;
+    public:
+    fetch()
+    {
+        num = 3;
+    }
+    fetch(int x)
+    {
+        num = x;
+    }
+    fetch(fetch &b)
+    {
+        num = b.num;
+    }
+    void disp()
+    {
+        cout << num << endl;
+    }
+};
+
+int main()
+{
+    fetch f1, f2(6), f3(f1);
+    f1.disp();
+    f2.disp();
+    f3.disp();
+
+    return 0;
+}
 
 ```
 ### Output
+<img width="616" alt="EXP 13 B OUTPUT" src="https://github.com/user-attachments/assets/1f2bcfee-2cda-4bee-a685-261a4ff31087">
 
 
 ## CODE 
