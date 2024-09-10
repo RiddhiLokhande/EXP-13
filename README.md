@@ -11,7 +11,10 @@ You need to have a C++ compiler installed on your system. Common options include
 - [Microsoft Visual C++](https://visualstudio.microsoft.com/vs/features/cplusplus/)
 
 ## Theory
- 
+ Constructor Overloading in C++ means that we have more than one constructor ina class with the same name, as long as each have a different list of arguments.
+A constructor is called depending upon the number and type of arguments passed.
+
+While creating the object, arguments must be passed to let compiler know, which constructor needs to be called.
 
 #### Code 
 (A) <br> 
