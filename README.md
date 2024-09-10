@@ -114,51 +114,5 @@ int main()
 ### Output
 <img width="616" alt="EXP 13 B OUTPUT" src="https://github.com/user-attachments/assets/1f2bcfee-2cda-4bee-a685-261a4ff31087">
 
-
-## CODE 
-```cpp
-
-
-
-```
-
-### Output
-
-
-#### CODE 
-```cpp
-
-
-//RIDDHI LOKHANDE 
-
-
-```
-### Output
-
-#### CODE 
-```cpp
-
-```
-### Output
-
-
-#### CODE 4 
-```cpp
-//RIDDHI LOKHANDE 
-
-```
-### Output
-
-
-
-#### CODE 
-```cpp
-
-```
-### Output
-<
-
-
-
 ## Conclusion
 We learnt the implementation and study of Constructor Overloading. 
